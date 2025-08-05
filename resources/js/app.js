@@ -4,7 +4,7 @@ import './bootstrap';
 import { createInertiaApp } from '@inertiajs/vue3';
 import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers';
 import { createApp, h } from 'vue';
-import { ZiggyVue } from '../../vendor/tightenco/ziggy/dist/vue.m';
+import { ZiggyVue } from '../../vendor/tightenco/ziggy/dist/vue.mjs';
 import 'leaflet/dist/leaflet.css';
 import {Ziggy} from "./ziggy";
 
