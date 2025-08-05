@@ -1,7 +1,6 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { getFirestore, doc, getDoc } from 'firebase/firestore'
-import { useRoute } from 'vue-router' // atau pakai prop
 
 const db = getFirestore()
 const route = useRoute()
