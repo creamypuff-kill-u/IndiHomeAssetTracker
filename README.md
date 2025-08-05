@@ -1,4 +1,4 @@
-<p align="center"><img src="images/telkom.png" width="200" alt="Telkom Logo"></p>
+<p align="center"><img src="public/images/telkom.png" width="200" alt="Telkom Logo"></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
